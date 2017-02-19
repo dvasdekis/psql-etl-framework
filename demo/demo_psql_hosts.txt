@@ -1,0 +1,5 @@
+--host=mydb1.mycoolsite.com --port=5432 --dbname=postgres --username=devuser
+--host=mydb2.mycoolsite.com --port=5432 --dbname=postgres --username=devuser
+--host=mydb3.mycoolsite.com --port=5432 --dbname=postgres --username=devuser
+--host=mydb4.mycoolsite.com --port=5432 --dbname=postgres --username=devuser
+--host=mydb5.mycoolsite.com --port=5432 --dbname=postgres --username=devuser
