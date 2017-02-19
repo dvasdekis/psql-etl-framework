@@ -33,3 +33,12 @@ Otherwise, just bash
 	* If you need to call another cluster, call it again with the next clustername
 	
 See the 'demo' folder for an example implementation.
+
+## To do:
+
+1. Set up a DDL script that creates a psql job logging schema inside Postgres
+2. Add lines to this script to:
+	a. Check if the schema exists (once)
+	b. Write to the schema if it does
+	c. Not error (but just warn) if it doesn't
+	
